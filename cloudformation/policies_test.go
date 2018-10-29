@@ -3,7 +3,7 @@ package cloudformation_test
 import (
 	"github.com/sanathkr/yaml"
 
-	"github.com/awslabs/goformation/cloudformation"
+	"github.com/ph/goformation/cloudformation"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
